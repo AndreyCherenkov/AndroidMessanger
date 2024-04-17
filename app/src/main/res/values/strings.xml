@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="messenger">Messenger</string>
+    <string name="your_email">Введите ваш email</string>
+    <string name="your_password">Введите пароль</string>
+    <string name="login">Авторизоваться</string>
+    <string name="reset_password">Сброс пароля</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="registration">Регистрация</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="forgot_password_title">Забыли пароль?</string>
+    <string name="logout">Logout</string>
+    <string name="reset_link_sent">Инструкция по сброку пароля отправлена на email</string>
+    <string name="type_your_message">Введите сообщение</string>
+</resources>

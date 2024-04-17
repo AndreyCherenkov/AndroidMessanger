@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46558662347",
+    "project_id": "messenger-918aa",
+    "storage_bucket": "messenger-918aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46558662347:android:0bd08e150d00829c87954e",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGrdbZy1MpNMuIAr0zASTXoEGNVZ5m-2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
